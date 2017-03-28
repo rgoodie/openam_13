@@ -22,6 +22,11 @@ As always, test this on a **TESTING** or **DEVELOPMENT** server first. This is b
 - remove the openam folder 
 - clone this repo 
 
+```
+  $ rm -rf openam
+  $ git clone https://github.com/rgoodie/openam_13.git openam
+```
+
 Caveats:
 -
 As is. No warranty. This could break something. Proceed with caution. GPL2 license included. Unless you *need* to use OpenAM API 13, just stick to the original OpenAM module. 
