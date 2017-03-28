@@ -24,7 +24,7 @@ As always, test this on a **TESTING** or **DEVELOPMENT** server first. This is b
 
 Caveats:
 -
-As is. No warrenty. This could break something. Proceed with caution. GPL licnese included. 
+As is. No warranty. This could break something. Proceed with caution. GPL2 license included. Unless you *need* to use OpenAM API 13, just stick to the original OpenAM module. 
 
 
 The Original README.txt file
