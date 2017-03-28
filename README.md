@@ -18,8 +18,12 @@ How
 
 To Install
 - 
-- Remove current openam files. 
-- Clone into {DRupalROOT}/sites/all/modules/custom/
+This is basically a "drop-in replacement" for the 7.x-1.2 version. In the shell *of a TESTING system*
+- remove the openam folder 
+- clone this repo 
+
+
+
 
 The Original README.txt file
 -
