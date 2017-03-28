@@ -2,7 +2,7 @@
 
 What
 - 
-This is a fork of the Drupal 7 [OpenAM module](https://www.drupal.org/project/openam). It includes some additional functionality to support OpenAM API level 13. After having enough troubles submitting patches, abandoning auto roles population, and other changes, I forked this. 
+This is a fork of the Drupal 7 [OpenAM module](https://www.drupal.org/project/openam). It includes some additional functionality to support OpenAM API level 13. After having enough troubles submitting patches, abandoning auto roles population, and other changes, I had more than just a few changes.  
 
 Why 
 -
@@ -13,7 +13,10 @@ How
 - New function called [_openam_is_token_valid_13](https://github.com/rgoodie/openam_13/blob/master/openam.module#L306) and [_openam_get_informations_13](https://github.com/rgoodie/openam_13/blob/master/openam.module#L460). 
 - New [menu option checkbox ](https://github.com/rgoodie/openam_13/blob/master/openam.admin.inc#L22) that sets a boolean value to use legacy or API level 13 calls. 
 
-
+To Install
+- 
+- Clone into {DRupalROOT}/sites/all/modules/custom/
+- enable openam via `drush en openam`
 
 
 
