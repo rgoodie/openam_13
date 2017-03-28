@@ -18,11 +18,13 @@ How
 
 To Install
 - 
-This is basically a "drop-in replacement" for the 7.x-1.2 version. In the shell *of a TESTING system*
+As always, test this on a **TESTING** or **DEVELOPMENT** server first. This is basically a "drop-in replacement" for the 7.x-1.2 version. In the shell *of a TESTING system*
 - remove the openam folder 
 - clone this repo 
 
-
+Caveats:
+-
+As is. No warrenty. This could break something. Proceed with caution. GPL licnese included. 
 
 
 The Original README.txt file
