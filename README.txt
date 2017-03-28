@@ -1,3 +1,22 @@
+
+
+What
+- 
+This is a fork of the Drupal 7 [OpenAM module](https://www.drupal.org/project/openam)
+
+Why 
+-
+
+
+How
+-
+
+
+
+
+The Original README.md file
+-
+
 The OpenAM project aims to provide a bridge between Drupal and OpenAM.
 
 How does it work ?
